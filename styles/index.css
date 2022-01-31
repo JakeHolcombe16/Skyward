@@ -1,0 +1,14 @@
+body {  
+    background-image: linear-gradient( #6EC7EB, #FFFFFF);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 60px 100px;
+    
+}
