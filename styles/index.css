@@ -1,8 +1,5 @@
-body {  
+.background {  
     background-image: linear-gradient( #6EC7EB, #FFFFFF);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
 }
 
 .nav-wrapper {
@@ -15,4 +12,8 @@ body {
 }
 .skyward-img {
     position: absolute;
+}
+.three-lines {
+    height: 62px;
+    width: 7px;
 }
