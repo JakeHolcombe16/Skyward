@@ -19,8 +19,9 @@
     display: flex;
     width:150px;
     height:88px;
-    background-image:url(../images/skyward\ image.gif);
-    background-repeat: no-repeat;
+    background-image:url(images/skyward\ original\ logo.gif);
+    border: 0px solid #000000;
+    justify-content: center;
 }
 .login-access{
     width:150px;
