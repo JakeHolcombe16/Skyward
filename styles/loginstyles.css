@@ -20,14 +20,16 @@
     width: 25%;
     height: 70%;
     margin: 10px 50px 200px 700px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
 }
 .login-logo{
     display: flex;
     width:150px;
     height:88px;
-    background-image:url(../images/skyward\ image.gif);
     border: 0px solid #000000;
-    justify-content: center;
+    justify-content:;
 }
 .login-access{
     width:150px;
